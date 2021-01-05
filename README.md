@@ -1,2 +1,2 @@
-# -Text-Recognition-Painting-Software
+# Text-Recognition-Painting-Software
 Converts Hand-written texts using Painting Software
